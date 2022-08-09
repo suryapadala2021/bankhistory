@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.money-details-bal-box {
+  background-color: #ecfccb;
+  border-style: solid;
+  border-color: #84cc16;
+  border-width: 1px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.money-details-box-image {
+  height: 65px;
+  width: 65px;
+  margin: 20px;
+}
+.money-details-box-title {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 12px;
+}
+.money-details-box-amount {
+  font-family: 'Roboto';
+  font-size: 26px;
+  color: #475569;
+}
+.money-details-income-box {
+  background-color: #cffafe;
+  border-style: solid;
+  border-color: #06b6d4;
+  border-width: 1px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.money-details-expense-box {
+  background-color: #ede9fe;
+  border-style: solid;
+  border-color: #7c3aed;
+  border-width: 1px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
